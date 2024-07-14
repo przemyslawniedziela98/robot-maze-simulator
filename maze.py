@@ -1,4 +1,3 @@
-# df_maze.py
 import random
 from PIL import Image, ImageDraw
 

@@ -1,12 +1,11 @@
-# -*- coding: utf-8 -*-
 from PyQt5.QtWidgets import QWidget, QApplication, QLabel, QGroupBox, QLineEdit, QPushButton, QTextBrowser, QSlider, QFileDialog, QCheckBox
 from PyQt5.QtGui import  QFont, QIcon,QPixmap
 from PyQt5.QtCore import QRect, Qt
 import sys
 import os
-from MAZE import Maze
+from maze import Maze
 from mapping import mapping
-from PLAY import game
+from play import game
 from directions_mapping import communication
 import time 
 

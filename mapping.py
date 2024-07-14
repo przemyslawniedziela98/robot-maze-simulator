@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Nov 27 17:50:17 2020
-
-@author: PLPRNIE
-"""
 from PIL import Image, ImageDraw
 import os
 
